@@ -1,0 +1,2 @@
+this is my first line from c.txt
+this is the second line in c.txt
